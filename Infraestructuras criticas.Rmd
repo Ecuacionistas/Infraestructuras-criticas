@@ -1,0 +1,85 @@
+---
+title: "Infraestructuras criticas"
+author: 
+  - name: "Ricardo R. Palma"
+    department: "Department of Industrial Engineering"
+    affiliation: "Instituto de Ingeniería Industrial"
+    location: "Mendoza, PA 5502 Argentina"
+    email: "rpalma@uncu.edu.ar"
+  - name: "Gustavo A. Masera"
+    department: "Historia del Pensamiento Económico"
+    affiliation: "IMESC - Fac. Filosofía y Letras"
+    location: "Universidad Nacional de Cuyo - Mendoza Argentina"
+    email: "gmasera@gmail.com"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Índice
+Infraestructuras criticas	1
+Defensa	1
+Infraestructuras criticas	2
+Tipos de infraestructuras criticas	3
+Concepto e importancia de la Defensa como infraestructura crítica	4
+Caso de estudio: Domo de hierro de Israel	5
+¿Qué consecuencias habría si se destruyera el domo de hierro?	6
+Conclusión	6
+Bibliografía	7
+
+
+
+
+
+
+
+
+
+
+
+
+
+Infraestructuras criticas
+Las infraestructuras críticas son los sistemas y activos físicos y virtuales tan vitales para una nación que su incapacidad o destrucción tendría un efecto debilitante sobre la seguridad, la economía nacional, la salud pública o la seguridad pública. Estos incluyen una amplia gama de sectores que son esenciales para el funcionamiento y bienestar de la sociedad.
+ 
+Tipos de infraestructuras criticas
+
+Las infraestructuras críticas suelen ser similares en todos los países, aunque puede haber diferencias en función de los recursos, necesidades y nivel de desarrollo que tengan. Suelen agruparse por sectores o áreas estratégicas como:
+• Sector de Químicos: Involucra la producción, almacenamiento, y transporte de productos químicos.
+• Sector de Comunicaciones: Incluye las telecomunicaciones, redes de datos, y otros servicios de comunicación.
+• Sector de Energía: Comprende la generación, transmisión, y distribución de electricidad, así como las industrias de petróleo y gas.
+• Sector de Servicios de Emergencia: Abarca las agencias de policía, bomberos, servicios médicos de emergencia, y otras entidades de respuesta a emergencias.
+• Sector de Presas: Incluye las estructuras y sistemas asociados con presas y embalses.
+• Sector de Defensa Industrial: Se refiere a la producción y mantenimiento de armas, equipos y tecnologías militares.
+• Sector de Alimentación y Agricultura: Cubre la producción, procesamiento, y distribución de alimentos y productos agrícolas.
+• Sector de Gobierno y Servicios Públicos: Incluye las instalaciones y servicios esenciales del gobierno.
+• Sector Financiero: Abarca los bancos, mercados financieros, y otras instituciones financieras.
+• Sector de Salud y Salud Pública: Comprende hospitales, clínicas, laboratorios y otros servicios y recursos de salud pública.
+• Sector de Tecnologías de la Información: Incluye los sistemas y servicios de tecnologías de la información, como hardware, software, y redes.
+• Sector Nuclear: Se refiere a las instalaciones y actividades relacionadas con la energía nuclear y materiales radiactivos.
+• Sector de Transporte: Incluye sistemas de transporte aéreo, terrestre, marítimo y ferroviario.
+• Sector de Agua y Aguas Residuales: Abarca la gestión del suministro de agua potable y el tratamiento de aguas residuales.
+• Sector de Instalaciones Críticas: Comprende las instalaciones comerciales, residenciales, de entretenimiento y de servicios que tienen un impacto significativo en la seguridad y economía.
+• Sector de Materiales Críticos y Manufactura: Involucra la producción de materiales esenciales y bienes manufacturados cruciales para la seguridad y economía del país.
+
+Concepto e importancia de la Defensa como infraestructura crítica
+La infraestructura crítica de defensa se refiere a los sistemas, activos, y servicios que son esenciales para la investigación, desarrollo, diseño, producción, entrega, y mantenimiento de sistemas y componentes militares que satisfacen los requisitos de defensa nacional. Estos elementos son fundamentales para la seguridad y eficacia de las operaciones militares, y su incapacidad o destrucción tendría un efecto debilitante sobre la defensa y seguridad nacional.
+La infraestructura crítica de defensa es fundamental no solo para las operaciones militares directas, sino también para la capacidad de una nación de responder a emergencias y crisis, proteger sus intereses nacionales y mantener la estabilidad y seguridad tanto a nivel doméstico como internacional. La colaboración entre el gobierno, el sector privado y las instituciones académicas es crucial para el desarrollo y mantenimiento de esta infraestructura, asegurando que las fuerzas armadas dispongan de los recursos y tecnologías necesarios para cumplir con su misión de defensa.
+Caso de estudio: Domo de hierro de Israel
+El Domo de Hierro (Iron Dome) es un sistema de defensa antimisiles desarrollado por Israel para interceptar y destruir cohetes de corto alcance y proyectiles de artillería lanzados hacia zonas pobladas. Entro en uso en el año 2011 después de la serie de pruebas realizadas en 2010.
+El Domo de Hierro se compone de tres elementos principales: un radar de detección y seguimiento, una unidad de control de batalla y gestión de armas (BMC), y las unidades de lanzamiento de misiles interceptores Tamir. El radar detecta el lanzamiento de cohetes entrantes y calcula su trayectoria. Si el sistema determina que el cohete está en ruta hacia una zona habitada o infraestructura crítica, el BMC autoriza el lanzamiento de un interceptor Tamir para destruir el cohete en el aire, generalmente en la fase media de su trayectoria.
+El Domo de Hierro es considerado una infraestructura crítica porque protege a la población civil y a instalaciones vitales de ataques que podrían causar pérdidas humanas, daños materiales significativos y disrupciones en la vida diaria. Además, su eficacia ha tenido un impacto estratégico, permitiendo a Israel manejar la escalada de conflictos y reducir la necesidad de operaciones militares a gran escala en respuesta a los ataques con cohetes.
+
+¿Qué consecuencias habría si se destruyera el domo de hierro?
+Si se desactivara, las áreas habitadas podrían quedar expuestas a impactos de misiles, lo que podría causar daños graves y provocar víctimas1. Además, el sistema es un pilar en la defensa del país contra ataques externos2. Desactivarlo podría tener consecuencias significativas en la seguridad de la región.
+Las infraestructuras críticas que podrían verse afectadas incluyen bases militares, sistemas de túneles, depósitos de armas y lanzadores de misiles. Estas son esenciales para la seguridad y logística del país y su desactivación podría tener un impacto significativo en la capacidad de defensa y respuesta a ataques
+
+Conclusión
+En conclusión, el Domo de Hierro se ha consolidado como una pieza fundamental de la infraestructura crítica de Israel, desempeñando un papel vital en la defensa del país contra amenazas aéreas. Su capacidad para interceptar y neutralizar cohetes de corto alcance y proyectiles de artillería ha protegido eficazmente a la población civil y a las infraestructuras vitales de Israel, minimizando tanto las pérdidas humanas como los daños materiales. Esta protección ha permitido una mayor estabilidad y seguridad en las áreas afectadas, reduciendo la necesidad de respuestas militares a gran escala y contribuyendo a la resiliencia nacional frente a conflictos regionales. Además, el éxito del Domo de Hierro subraya la importancia de la inversión en tecnología de defensa avanzada y en la cooperación internacional, especialmente con Estados Unidos, en el desarrollo de soluciones innovadoras para la seguridad nacional. En resumen, el Domo de Hierro no solo es un escudo protector para Israel, sino también un símbolo de la capacidad de innovación y cooperación en el campo de la defensa estratégica.
+Bibliografía 
+https://cnnespanol.cnn.com/2024/04/13/domo-de-hierro-sistema-antimisiles-israel-conflicto-palestina-orix/
+https://www.pagina12.com.ar/597487-que-es-y-como-funciona-la-cupula-de-hierro-el-domo-en-israel
+https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience/critical-infrastructure-sectors
+
+
